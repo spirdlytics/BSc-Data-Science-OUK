@@ -1,1 +1,0 @@
-Purely C+ based
